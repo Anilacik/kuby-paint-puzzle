@@ -1,6 +1,6 @@
 {
   "name": "Kuby: Paint Puzzle",
-  "short_name": "Kuby",
+  "short_name": "Kuby Paint",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
